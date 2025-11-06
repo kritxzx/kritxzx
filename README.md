@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kritzxz!
+# 👋 Hi I'm Krist
 
 🎓 **ICT Student at Mahidol University**  
 💡 Passionate about **AI, Cybersecurity, and Business Innovation**  
@@ -28,8 +28,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Kritzxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritzxz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritzxz&layout=compact&theme=tokyonight)
+![Kritzxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritxzx&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritxzx&layout=compact&theme=tokyonight)
 
 ---
 
