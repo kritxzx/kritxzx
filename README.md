@@ -2,7 +2,7 @@
 
 🎓 **ICT Student at Mahidol University**  
 💡 Passionate about **AI, Cybersecurity, and Business Innovation**  
-🌱 Currently learning **Python, Web Development, and Data Science**
+🌱 Currently learning **C, Web Development, and Data Science**
 
 ---
 
@@ -35,8 +35,7 @@
 
 ### 🌍 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kkrixt._)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit.27072549@email.com)
 
 ---
 
