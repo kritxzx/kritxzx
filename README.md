@@ -18,12 +18,13 @@
 const krist = {
   pronouns: "he" | "him",
   education: "B.Sc. in ICT @ Mahidol University (Year 2)",
-  code: ["C", "Java", "Python", "HTML", "Mysql"],
+  code: ["C (Unix & standard)", "Java", "Python", "HTML", "Mysql"],
   currentlyLearning: ["Data Structures Algorithms", "Computer Architecture (MIPS)", "Database"],
   tools: ["Git", "VS Code", "Mysql", "Vercel", "Supabase"],
   projects: [
-    "Air Piano (Hand-Tracking Web Prototype)",
-    "8-bit Checksum Calculator (C & MIPS)"
+    "Technical Quant in US Stocks (Web)",
+    "8-bit 1's Complement Checksum (C & MIPS Assembly)",
+    "42 Bangkok Piscine & Core C Exercises"
   ],
   goal: "Exploring 2nd-year Software Engineering / Tech Internships"
 };
