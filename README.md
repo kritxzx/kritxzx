@@ -19,8 +19,8 @@ const krist = {
   pronouns: "he" | "him",
   education: "B.Sc. in ICT @ Mahidol University (Year 2)",
   code: ["C", "Java", "Python", "HTML", "Mysql"],
-  currentlyLearning: ["Data Structures & Algorithms", "Computer Architecture (MIPS)", "Database"],
-  tools: ["Git", "VS Code"],
+  currentlyLearning: ["Data Structures Algorithms", "Computer Architecture (MIPS)", "Database"],
+  tools: ["Git", "VS Code", "Mysql", "Vercel", "Supabase"],
   projects: [
     "Air Piano (Hand-Tracking Web Prototype)",
     "8-bit Checksum Calculator (C & MIPS)"
