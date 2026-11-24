@@ -1,21 +1,27 @@
-### Hi, I'm Krist
+### Hi, I'm Krist! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I enjoy building things from scratch whether it’s low-level C programs or turning a random idea into a working app over a weekend. I care about solving real problems and making useful tools.
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 
-#### What I'm Doing Right Now
-- **Mahidol University (2nd Year ICT):** Learning core CS subjects like Data Structures, Computer Architecture, Databases, and Java (OOP).
-- **42 Bangkok (Cadet):** Sharpening my low-level coding and problem-solving skills in C, Linux, and Git through hands-on, peer-to-peer projects.
+*ICT Undergraduate at [Mahidol University](https://www.ict.mahidol.ac.th/)* 💻  
+*Cadet at [42 Bangkok (KMITL)](https://www.42bangkok.com/)* 🚀  
 
-#### How I Work
-I like moving fast. When I get an idea, I use AI and modern tools to quickly build a working prototype and test if it makes sense. Once it works, I dig into the code to actually understand how everything runs under the hood.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub followers](https://img.shields.io/github/followers/krist?label=Follow&style=social)](https://github.com/)
 
-#### Things I've Built & Tried
-- **Finance & Data:** Built a gold price prediction model using Numerical Methods and Statistics from my university coursework.
-- **Software & Web:** Created a terminal-based ordering system in Python, and built a portfolio website to help high school juniors prepare for university admissions.
-- **Hardware & Space:** Built and programmed robots for competitions, and had a satellite project proposal selected by GISTDA for an on-site visit.
+<br/>
 
----
+### ⚡ A little more about me...
 
-I'm especially interested in **finance, automation, and practical tools** that help businesses work better. 
-
-Always down for side projects, hackathons, or software engineering internships. Feel free to reach out!
+```typescript
+const krist = {
+  pronouns: "he" | "him",
+  education: "B.Sc. in ICT @ Mahidol University (Year 2)",
+  code: ["C", "Java", "Python", "JavaScript", "HTML", "CSS", "MIPS Assembly"],
+  tools: ["Git", "VS Code", "Node.js", "MediaPipe", "Tone.js", "MARS 4.5"],
+  projects: [
+    "Air Piano (Mid-air Hand-Tracking Web App)",
+    "8-bit 1's Complement Checksum (C & MIPS)",
+    "Stock Prediction Web App"
+  ],
+  goal: "Looking for 2nd-year Software Engineering / Tech Internship opportunities"
+};
