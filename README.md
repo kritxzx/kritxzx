@@ -1,22 +1,21 @@
-I am a builder at heart. Whether it is engineering low-level software from scratch or turning an idea into a working prototype overnight, I am driven by the process of solving practical problems and exploring viable products.
+### Hi, I'm Krist
 
-Currently, I split my focus between two rigorous environments:
+I enjoy building things from scratch whether it’s low-level C programs or turning a random idea into a working app over a weekend. I care about solving real problems and making useful tools.
 
-Mahidol University (2nd Year ICT): Building structured academic foundations across Data Structures, Computer Architecture, Databases, and Object-Oriented Programming (Java).
+#### What I'm Doing Right Now
+- **Mahidol University (2nd Year ICT):** Learning core CS subjects like Data Structures, Computer Architecture, Databases, and Java (OOP).
+- **42 Bangkok (Cadet):** Sharpening my low-level coding and problem-solving skills in C, Linux, and Git through hands-on, peer-to-peer projects.
 
-42 Bangkok (Cadet): Developing deep, low-level problem-solving skills in C, Unix, Linux environments, and Git through peer-to-peer, project-driven learning.
+#### How I Work
+I like moving fast. When I get an idea, I use AI and modern tools to quickly build a working prototype and test if it makes sense. Once it works, I dig into the code to actually understand how everything runs under the hood.
 
-How I Build & Learn:
-I love fast execution. When an idea strikes, I leverage modern AI tools to bridge my experience gaps, build rapid prototypes, and validate concepts quickly—then dive deep under the hood to truly understand the mechanics.
+#### Things I've Built & Tried
+- **Finance & Data:** Built a gold price prediction model using Numerical Methods and Statistics from my university coursework.
+- **Software & Web:** Created a terminal-based ordering system in Python, and built a portfolio website to help high school juniors prepare for university admissions.
+- **Hardware & Space:** Built and programmed robots for competitions, and had a satellite project proposal selected by GISTDA for an on-site visit.
 
-Hands-on Experiments & Experience:
+---
 
-Financial Analytics: Built an experimental predictive model for gold prices by applying university-level Numerical Methods and Statistical analysis.
+I'm especially interested in **finance, automation, and practical tools** that help businesses work better. 
 
-Software & Tools: Developed a terminal-based POS/ordering system in Python, and built a web archive platform showcasing student portfolios to consult juniors on university admissions.
-
-Hardware & Challenges: Assembled and programmed custom robots for competition, and had a satellite project proposal selected by GISTDA for an on-site visit.
-
-Driven by an entrepreneurial mindset, I am deeply interested in technology that creates measurable business value—especially in finance, automation, and commercial tools.
-
-Always open to collaborating on ambitious side projects, hackathons, and future software/internship opportunities. Let’s connect!
+Always down for side projects, hackathons, or software engineering internships. Feel free to reach out!
