@@ -12,7 +12,7 @@
 
 <br/>
 
-### ⚡ A little more about me...
+### -><- A little more about me...
 
 ```typescript
 const krist = {
